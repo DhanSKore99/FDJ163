@@ -8,6 +8,9 @@ public class EvenNumbers {
 			if(i%2==0) {
 				System.out.println(i + " is even number..");
 			}
+			else{
+				System.out.println(i + "is Odd number..");
+			}
 		}
 
 	}
