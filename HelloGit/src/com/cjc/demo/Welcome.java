@@ -7,6 +7,8 @@ public class Welcome {
 		System.out.println("Welcome to Github..!");
 		System.out.println("New statement added ....");
 		System.out.println("New Branch added ....");
+		System.out.println("New Branch 2 added ....");
+		
 	
 	}
 
