@@ -8,6 +8,7 @@ public class Welcome {
 		System.out.println("New statement added ....");
 		System.out.println("New Branch added ....");
 		System.out.println("New Branch 2 added ....");
+		System.out.println("Changes done by master branch ....");
 		
 	
 	}
