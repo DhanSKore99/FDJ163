@@ -6,6 +6,7 @@ public class Welcome {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to Github..!");
 		System.out.println("New statement added ....");
+		System.out.println("New Branch added ....");
 	
 	}
 
